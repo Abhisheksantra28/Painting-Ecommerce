@@ -103,7 +103,7 @@ const ProductList = () => {
             // Filter by sizes
             if (filters.sizes.length > 0) {
                 updatedProducts = updatedProducts.filter((product) =>
-                    product.sizes.some((s) => filters.sizes.includes(s.size))
+                    product?.sizes?.some((s) => filters.sizes.includes(s.size))
                 );
             }
 
