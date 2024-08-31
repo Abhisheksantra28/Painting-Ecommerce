@@ -130,6 +130,7 @@ const ProductList = () => {
                         default:
                             return 0;
                     }
+
                 });
             }
 
@@ -139,6 +140,7 @@ const ProductList = () => {
         if (!loading) {
             applyFilters();
         }
+
     }, [products, filters, loading,sortOption]);
 
     // Handler functions for filter changes
@@ -149,6 +151,7 @@ const ProductList = () => {
             subcategories: [], // Reset subcategories when category changes
         }));
     };
+    // console.log("filters",filters)
 
     const handleSubcategoryChange = (subcategory) => {
         setFilters((prev) => ({
