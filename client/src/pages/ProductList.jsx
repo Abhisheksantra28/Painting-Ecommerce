@@ -106,6 +106,7 @@ const ProductList = () => {
                     product?.sizes?.some((s) => filters.sizes.includes(s.size))
                 );
             }
+            
 
             // Filter by price range
             if (filters.priceRange < 5000) {
