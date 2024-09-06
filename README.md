@@ -65,8 +65,8 @@ The Deployment process for the Trivart will involve hosting the service in vario
 - [Deployment & Contribution Guide](https://github.com/Niladri2003/Painting-Ecommerce/tree/main/server#readme)
 
 ### Future Enhancements:<br/>
-- User Analytics Collection: User activiy tracking in the website.
-- Product Perfomance Tracking: Most viewd , Most bought, Most Clicked products.
+- User Analytics Collection: User activity tracking in the website.
+- Product Perfomance Tracking: Most viewed , Most brought, Most Clicked products.
 - Elastic Search: Implementation for fast and user centric search feature.
 - Verification:  For non google Signups we will use Otp.
 ## Technologies Used
