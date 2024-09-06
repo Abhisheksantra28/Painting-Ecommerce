@@ -89,8 +89,8 @@ The Deployment process for the Trivart will involve hosting the service in vario
 ## Made With ❤️ By 
 <p align="center">
    <a href="https://github.com/arnabpal16"><img src="https://github.com/arnabpal16.png" width="80" alt="Arnab" style="border-radius: 50%;"></a>
-  <a href="https://github.com/swarnab007"><img src="https://github.com/Abhisheksantra28.png" width="80" alt="Abhishek" style="border-radius: 50%;"></a>
+  <a href="https://github.com/Abhisheksantra28"><img src="https://github.com/Abhisheksantra28.png" width="80" alt="Abhishek" style="border-radius: 50%;"></a>
   <a href="https://github.com/Niladri2003"><img src="https://github.com/Niladri2003.png" width="80" alt="Niladri" style="border-radius: 50%;"></a>
-  <a href="https://github.com/Niladri2003"><img src="https://github.com/Dev-akash77.png" width="80" alt="Akash Biswas" style="border-radius: 50%;"></a>
+  <a href="https://github.com/Dev-akash77"><img src="https://github.com/Dev-akash77.png" width="80" alt="Akash Biswas" style="border-radius: 50%;"></a>
  
 </p>
